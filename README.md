@@ -1,2 +1,2 @@
-# Basic-App
-basics for react native
+# Bat-notifier
+op is learning firebase!
