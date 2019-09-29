@@ -1,4 +1,4 @@
-package com.batnotifier;
+package batcave.batnotifier;
 
 import com.facebook.react.ReactActivity;
 

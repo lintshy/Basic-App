@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348253313907",
+    "firebase_url": "https://bat-notifier.firebaseio.com",
+    "project_id": "bat-notifier",
+    "storage_bucket": "bat-notifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348253313907:android:4aff3085a5ee09bc878306",
+        "android_client_info": {
+          "package_name": "batcave.batnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348253313907-h4eo2ktdutmasn09fa5hec05truodni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3taNiK-6wJfC9l9jaNncpahvSYP4QHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348253313907-h4eo2ktdutmasn09fa5hec05truodni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

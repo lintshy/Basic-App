@@ -1,4 +1,4 @@
-package com.batnotifier;
+package batcave.batnotifier;
 
 import android.app.Application;
 import android.content.Context;
